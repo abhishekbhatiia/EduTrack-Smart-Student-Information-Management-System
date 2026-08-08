@@ -22,6 +22,11 @@ protected:
 
 private:
     Ui::MainWindow *ui;
+    void loadStudents();
+    void applyFilters();
+    void updateDashboard();
     void updateStudentCount();
+    void on_logoutBtn_clicked();
+    void on_exitBtn_clicked();
 };
 #endif // MAINWINDOW_H
