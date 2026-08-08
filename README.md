@@ -24,17 +24,6 @@ EduTrack is a desktop-based Student Information Management System developed usin
 - QODBC / ODBC
 - CMake
 
-## Application Screenshots
-
-### Login Screen
-![Login Screen](screenshots/login.png)
-
-### Main Dashboard
-![Main Dashboard](screenshots/dashboard.png)
-
-### Search Function
-![Search Function](screenshots/search.png)
-
 ## Database
 
 The project uses MySQL as the backend database with two main tables:
